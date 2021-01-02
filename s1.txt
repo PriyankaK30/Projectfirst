@@ -1,4 +1,8 @@
 Hello this is git
 git is vcs
+
 Git is wrriten in c
 tHANKS
+=======
+THIS IS the main branch
+
